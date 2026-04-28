@@ -1,4 +1,4 @@
-# 🚗 Autopilot for the Car / Ground Robot
+# 🚗 Autopilot for the Toy Car / Ground Robot
 
 A computer vision + LLM system that processes video/camera feeds, detects road objects with RetinaNet, and generates control commands via Azure OpenAI, Ollama, or OpenAI.
 
