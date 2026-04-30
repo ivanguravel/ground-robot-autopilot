@@ -71,7 +71,7 @@ The LLM receives:
 
 ```bash
 # Clone or navigate to project
-cd AutopilotForGroundRobot
+cd ground-robot-autopilot
 
 # Create virtual environment
 python -m venv venv
@@ -152,7 +152,7 @@ Output:
 ## 📁 Project Structure
 
 ```
-AutopilotForGroundRobot/
+ground-robot-autopilot/
 ├── config.py              # Configuration (device, classes, Azure OpenAI)
 ├── model.py               # RetinaNet model definition
 ├── llm_controller.py      # Azure OpenAI integration
